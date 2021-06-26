@@ -1,0 +1,185 @@
+body {
+    margin-top: 90px;
+    background-color: aliceblue;
+  }
+  .container {
+    background-color: rgb(217, 235, 252) ;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    }
+    .text-center{
+        text-align: center;
+    }
+    .thumbnail{
+        text-align: center;
+    }
+   H3{
+       text-align: center;
+   }
+    #contactForm{
+        text-align: center;
+       
+    }
+    .contact_details {
+        padding-bottom: 50px;
+      }
+   
+      .contact_details .media .d-flex {
+        padding-right: 30px;
+      }
+      
+      .contact_details .media .d-flex i {
+        height: 48px;
+        width: 48px;
+        border-radius: 50%;
+        background: #f3f6fa;
+        color: #000;
+        text-align: center;
+        font-size: 22px;
+        line-height: 48px;
+      }
+      
+      .contact_details .media .media-body p {
+        font-size: 14px;
+        line-height: 26px;
+        color: #666666;
+        font-family: "Poppins", sans-serif;
+      }
+      
+      .contact_details .media .media-body a {
+        display: block;
+        font-size: 14px;
+        line-height: 26px;
+        color: #666666;
+      }
+      
+      .contact_form_inner h3 {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #000;
+        font-size: 18px;
+        padding-bottom: 30px;
+      }
+      
+      .contact_us_form .form-group {
+        margin-bottom: 30px;
+      }
+      
+      .contact_us_form .form-group input {
+        height: 50px;
+        border: 1px solid #cccccc;
+        border-radius: 0px;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        outline: none;
+        padding: 0px 22px;
+        box-shadow: none;
+        line-height: 50px;
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group input.placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group input:-moz-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group input::-moz-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group input::-webkit-input-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group input:focus {
+        border-color: #000;
+      }
+      
+      .contact_us_form .form-group textarea {
+        height: 230px;
+        border: 1px solid #cccccc;
+        border-radius: 0px;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        outline: none;
+        padding: 0px 22px;
+        box-shadow: none;
+        line-height: 50px;
+        resize: none;
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group textarea.placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group textarea:-moz-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group textarea::-moz-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group textarea::-webkit-input-placeholder {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        color: #999999;
+      }
+      
+      .contact_us_form .form-group textarea:focus {
+        border-color: #000;
+      }
+      
+      .contact_us_form .form-group .update_btn {
+        max-width: 240px;
+        margin: auto;
+        width: 100%;
+        text-align: center;
+        border-radius: 3px;
+        line-height: 58px;
+      }
+      
+      .contact_us_form .form-group:last-child {
+        margin-bottom: 0px;
+        text-align: center;
+      }
+      
+      #name{
+          width: 50%;
+      }
+      #email{
+        width: 50%;
+    }
+    #Pn{
+        width: 50%;
+    }
+    #message{
+        width: 50%;
+    }
+    #rr{
+        text-align: left;
+    }
